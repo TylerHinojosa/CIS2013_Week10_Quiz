@@ -17,11 +17,10 @@ int main(){
 			if(cnt%2 == 1){
 				cout << "SIT";
 			} else {
-					cout << "STAND";
+				cout << "STAND";
 			}
 		} else {
 				cout << sentence[x];
 		}
-	}
-	
+	}	
 }
